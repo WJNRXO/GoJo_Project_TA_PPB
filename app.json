@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "GoJo",
+    "slug": "GoJo",
+
+    "splash": {
+      "image": "./assets/GoJoSplash.png",
+      "resizeMode": "contain"
+    }
+  }
+}
